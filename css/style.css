@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+@font-face{
+    font-family: "Larsseit";
+    src: url(../fonts/Larsseit.woff2) format("woff2"),
+    url(../fonts/Larsseit.woff) format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Larsseit";
+    src: url(../fonts/Larsseit-Medium.woff2) format("woff2"),
+    url(../fonts/Larsseit-Medium.woff) format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Larsseit";
+    src: url(../fonts/Larsseit-Bold.woff2) format("woff2"),
+    url(../fonts/Larsseit-Bold.woff) format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Regular.woff2) format("woff2"),
+    url(../fonts/Lato-Regular.woff) format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Bold.woff2) format("woff2"),
+    url(../fonts/Lato-Bold.woff) format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Black.woff2) format("woff2"),
+    url(../fonts/Lato-Black.woff) format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+
+body{
+    font-family: "Lato";
+
+}
+
+h1{
+    color: rgb(43, 184, 137);
+    font-size: 50px;
+}
+li{
+    font-family:"Lato";
+    font-weight: 900;
+    color: orangered;
+}
+.title-text {
+    color: rgb(70, 79, 249);
+    font-size: 20px;
+}
+
+.main-text p{
+    font-weight: 700;
+    color: rgb(64, 16, 110);
+}
+.yellow {
+    color: rgb(237, 237, 71);
+    font-size: 60px;
+}
+.green {
+    color: green;
+    font-size: 50px;
+}
+.pink {
+    color: pink;
+    font-size: 60px;
+}
+.red {
+    color: red;
+    font-size: 50px;
+}
+.footer a{
+    color: coral;
+    font-size: 20px;
+}
